@@ -1,0 +1,85 @@
+.App {
+  color: #1B7F79;
+  text-align: center;
+}
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Work+Sans');
+
+body {
+  align-content: center;
+  background-color: #E1E2ED;
+  font-family: "Open Sans";
+  font-size: 18px;
+  text-align: center;
+	margin: 0;
+}
+
+h1
+{
+  font-family: "Work Sans";
+ 
+}
+
+h2
+{
+  font-family: "Work Sans";
+  color: #00CCC0;
+}
+
+h3
+{
+  font-family: "Work Sans";
+   color: #000000;
+}
+
+a
+{
+  color: #FF4858;
+}
+.icon {
+	height: 140px;
+	display: inline-block;
+	background: #00ccc0;
+  width: 68px;
+}
+#logo {
+	padding: 20px;
+	height: 250px;
+	width:auto;
+	position: center;
+}
+.icon-img
+{
+	border-radius: 30%;
+	background-color: rgba(255,255,255,0.7);	margin: 15px;
+	padding:15px;
+  width: 48px;
+	height: 48px;
+	position:center;
+}
+.mainicons 
+{
+  border: 2px solid #2C0938;
+  border-width: 2px 0px 2px 0px;
+}
+
+.mainicons img
+{
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius:10px;
+  border:2px solid #000000;
+}
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
