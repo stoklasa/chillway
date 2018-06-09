@@ -1,0 +1,81 @@
+{
+   "place":{
+      "Bohemia Bagel":{
+         "inout":"in",
+         "coordinates":{
+            "lat":50.102865,
+            "lan":14.432634
+         },
+         "tags":[
+            "fast food",
+            "hipster"
+         ]
+      },
+      "Happy Noodles":{
+         "inout":"in",
+         "coordinates":{
+            "lat":50.100101,
+            "lan":14.425316
+         },
+         "tags":[
+            "fast food",
+            "hipster"
+         ]
+      },
+      "Ouky Douky Coffee":{
+         "inout":"in",
+         "coordinates":{
+            "lat":50.100277,
+            "lan":14.434764
+         },
+         "tags":[
+            "hipster",
+            "coffee"
+         ]
+      },
+      "Workout park Stromovka":{
+         "inout":"out",
+         "coordinates":{
+            "lat":50.109412,
+            "lan":14.417660
+         },
+         "tags":[
+            "sport",
+            "fitness"
+         ]
+      },
+      "Paralelní Polis":{
+         "inout":"in",
+         "coordinates":{
+            "lat":50.103345,
+            "lan":14.450564
+         },
+         "tags":[
+            "coffee",
+            "bitcoin"
+         ]
+      },
+      "Stejkárna Holeovice":{
+         "inout":"in",
+         "coordinates":{
+            "lat":50.102556,
+            "lan":14.436455
+         },
+         "tags":[
+            "food",
+            "restaurant"
+         ]
+      },
+      "Suírna":{
+         "inout":"in",
+         "coordinates":{
+            "lat":50.102643,
+            "lan":14.435180
+         },
+         "tags":[
+            "food",
+            "sushi"
+         ]
+      }
+   }
+}
